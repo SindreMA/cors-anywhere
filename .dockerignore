@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+*.swp
+*.tmp
+*.log
+coverage
+test
+.git
+.gitignore
+.travis.yml
+.eslintignore
+.eslintrc
+demo.html
+README.md
+LICENSE
+Procfile
+start.sh
